@@ -35,6 +35,8 @@ img {
   width: 100%;
   border: none;
   border-radius: 0%;
+  border-bottom-right-radius: 2%;
+  border-bottom-left-radius: 2%;
 }
 
 div {
